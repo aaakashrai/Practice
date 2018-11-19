@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//edge weighted preference
 int main()
 {
   int n;
